@@ -12,6 +12,8 @@ Faker is heavily inspired by Perl's [Data::Faker](http://search.cpan.org/~jasonk
 Faker requires PHP >= 5.3.3.
 
 
+
+
 # Table of Contents
 
 - [Installation](#installation)
